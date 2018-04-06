@@ -1,5 +1,5 @@
-# KaggleCompetitions
-Python scripts for various Kaggle competitions
+# DL Projects
+Python scripts for Deep Learning PRojects
 
 **Kaggle profile** 
 
